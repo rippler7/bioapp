@@ -1,0 +1,32 @@
+<li id="one" class="">
+                        <a href="index.php">
+                            <div class="icon floatleft">&#xf022;</div>
+                            <div class="menu floatleft">Main</div>
+                            <div class="clear"></div>
+                        </a>
+                        <ul class="sub-menu">
+                            <li id="one-sub-one">
+                                <a href="#" class="navi">
+                                    <div class="subicon floatleft">&#xf022;</div>
+                                    <div class="submenu floatleft">Sub One</div>
+                                    <div class="clear"></div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li id="two" class="">
+                        <a href="#">
+                            <div class="icon floatleft">&#xf0e3;</div>
+                            <div class="menu floatleft">Another Item</div>
+                            <div class="clear"></div>
+                        </a>
+                        <ul class="sub-menu">
+                            <li id="two-sub-one">
+                                <a href="#" class="navi">
+                                    <div class="subicon floatleft">&#xf022;</div>
+                                    <div class="submenu floatleft">Submenu Item</div>
+                                    <div class="clear"></div>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>

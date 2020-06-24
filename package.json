@@ -1,0 +1,19 @@
+{
+  "name": "bio103app",
+  "version": "1.0.0",
+  "description": "a simple study app for bio 103",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rippler7/bioapp.git"
+  },
+  "author": "Jeremy Ancog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rippler7/bioapp/issues"
+  },
+  "homepage": "https://github.com/rippler7/bioapp#readme"
+}

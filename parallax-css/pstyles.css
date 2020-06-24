@@ -1,0 +1,33 @@
+body {
+}
+
+img.parallax {
+  display: block;
+  width: 100%;
+}
+
+.scene {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 0;
+  overflow:hidden;
+}
+
+.layer:nth-child(1) {
+  opacity: 1.0;
+}
+.layer:nth-child(2) {
+  opacity: 1.0;
+}
+.layer:nth-child(3) {
+  opacity: 1.0;
+}
+.layer:nth-child(4) {
+  opacity: 1.0;
+}
+.layer:nth-child(5) {
+  opacity: 1.00;
+}
+.layer:nth-child(6) {
+  opacity: 1.00;
+}
